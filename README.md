@@ -60,3 +60,11 @@ spleeter --version
 ```
 
 `Spleeter Version: 2.3.2`
+
+pretrained model [download page](https://github.com/deezer/spleeter/releases/tag/v1.4.0)
+
+dir 
+`pretrained_model/2stems` 
+`pretrained_model/4stems` 
+`pretrained_model/5stems`
+
