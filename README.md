@@ -32,10 +32,19 @@ Python `3.9.0`
 
 Anaconda `22.11.1`
 
+FFMPEG `5.1.2`
+
+libsndfile `2.1.0`
+
 
 ## Installation
 
 install dependencies
+
+```
+brew install ffmpeg libsndfile
+```
+
 ```
 conda create -n py38 python=3.8
 
