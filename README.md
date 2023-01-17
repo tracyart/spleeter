@@ -46,9 +46,9 @@ brew install ffmpeg libsndfile
 ```
 
 ```
-conda create -n py38 python=3.8
+conda create -n py39 python=3.9
 
-conda activate py38
+conda activate py39
 
 conda install -c apple tensorflow-deps==2.9.0
 ```
